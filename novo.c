@@ -6,4 +6,5 @@ void main()
     printf("zdr");
     //dobavqm komentar...
 //wfs
+    //fsf
 }
